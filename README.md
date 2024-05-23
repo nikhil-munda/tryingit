@@ -1,0 +1,2 @@
+# tryingit
+First git repos
